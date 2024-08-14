@@ -48,7 +48,21 @@ theme:
 
 # Page tree
 nav:
-  - Home: index.md
+  - Home:
+    - Welcome: index.md
+    - Getting Started: getting-started.md
+    - Selecting Your Course: selecting-your-course.md
+    - Using Chat: using-chat.md
+    - Troubleshooting: troubleshooting.md
+  - Advanced Topics:
+    - Obtaining an your Wilma API Token: advanced-topics/api-token.md
+    - Example of using your Wilma API Token in Jupyter: advanced-topics/api-token-jupyter.md
+    - Example of using your Wilma API Token in VSCode: advanced-topics/api-token-vscode.md
+  - For Instructors (and staff):
+    - Getting Started: instructors/getting-started.md
+    - Creating a Course: instructors/creating-a-course.md
+    - Managing a Course: instructors/managing-a-course.md
+    - Troubleshooting: instructors/troubleshooting.md
 
 # Theme Extras
 extra_css:
