@@ -1,7 +1,7 @@
 site_name: WILMA Manual & Resource Center
 site_description: This site serves as the manual for WILMA, our classroom chatbot, providing guides and guidelines for effective use and troubleshooting.
 site_author: CyVerse and Data Science Institute
-site_url: https://github.com/CyVerse-learning-materials/wilma-docs
+site_url: https://wilma-docs.cyverse.ai
 
 # Repository
 repo_name: WILMA Docs
