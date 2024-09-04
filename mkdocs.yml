@@ -1,11 +1,11 @@
-site_name: WILMA Manual & Resource Center
-site_description: This site serves as the manual for WILMA, our classroom chatbot, providing guides and guidelines for effective use and troubleshooting.
+site_name: Verde Manual & Resource Center
+site_description: This site serves as the manual for Verde, our classroom chatbot, providing guides and guidelines for effective use and troubleshooting.
 site_author: CyVerse and Data Science Institute
-site_url: https://wilma-docs.cyverse.ai
+site_url: https://verde-docs.cyverse.ai
 
 # Repository
-repo_name: WILMA Docs
-repo_url: https://github.com/CyVerse-learning-materials/wilma-docs
+repo_name: Verde Docs
+repo_url: https://github.com/CyVerse-learning-materials/verde-docs
 edit_uri: edit/main/docs/
 # Copyright
 copyright: 'Copyright &copy; 2023 - 2024 CyVerse'
@@ -55,9 +55,9 @@ nav:
     - Using Chat: using-chat.md
     - Troubleshooting: troubleshooting.md
   - Advanced Topics:
-    - Obtaining an your Wilma API Token: advanced-topics/api-token.md
-    - Example of using your Wilma API Token in Jupyter: advanced-topics/api-token-jupyter.md
-    - Example of using your Wilma API Token in VSCode: advanced-topics/api-token-vscode.md
+    - Obtaining an your Verde API Token: advanced-topics/api-token.md
+    - Example of using your Verde API Token in Jupyter: advanced-topics/api-token-jupyter.md
+    - Example of using your Verde API Token in VSCode: advanced-topics/api-token-vscode.md
   - For Instructors (and staff):
     - Getting Started: instructors/getting-started.md
     - Creating a Course: instructors/creating-a-course.md
