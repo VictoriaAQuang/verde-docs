@@ -1,16 +1,16 @@
-bump2version
-coverage
-flake8
-grip
+# bump2version
+# coverage
+# flake8
+# grip
 ipykernel
 livereload
 nbconvert>=7
-pip
-sphinx
-tox
-twine
-watchdog
-wheel
+# pip
+# sphinx
+# tox
+# twine
+# watchdog
+# wheel
 mkdocs-git-revision-date-plugin 
 mkdocs-jupyter 
 mkdocs-material 
@@ -20,6 +20,7 @@ mkdocstrings-crystal
 mkdocstrings-python-legacy
 #pygments>=2.10,<2.12
 #pymdown-extensions<9.4
+mkdocs-open-in-new-tab==1.0.3
 
 # Requirements for core
 jinja2>=3.0.2

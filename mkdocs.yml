@@ -1,14 +1,14 @@
-site_name: Verde Manual & Resource Center
-site_description: This site serves as the manual for Verde, our classroom chatbot, providing guides and guidelines for effective use and troubleshooting.
+site_name: AI-VERDE Manual & Resource Site
+site_description: This site serves as the manual and resource site for AI-VERDE (aka VERDE), our classroom chatbot, providing guides for using the service.
 site_author: CyVerse and Data Science Institute
 site_url: https://verde-docs.cyverse.ai
 
 # Repository
-repo_name: Verde Docs
+repo_name: AI-VERDE Docs
 repo_url: https://github.com/CyVerse-learning-materials/verde-docs
 edit_uri: edit/main/docs/
 # Copyright
-copyright: 'Copyright &copy; 2023 - 2024 CyVerse'
+copyright: 'Copyright &copy; 2024 CyVerse'
 
 
 # Configuration
@@ -39,25 +39,48 @@ theme:
 
   # Palette and theme (uses personalized colours)
   language: en
+
+    # Palette toggle for light mode
   palette:
-    primary: custom
-    accent: custom
+    - media: "(prefers-color-scheme: light)"
+      scheme: green
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+
+  # palette:
+  #   primary: custom
+  #   accent: custom
+  logo: assets/chat-cactus.png
   icon:
     logo: material/cogs
   favicon: material/cogs
 
 # Page tree
 nav:
-  - Home:
+  - AI-VERDE Chat:
     - Welcome: index.md
     - Getting Started: getting-started.md
-    - Selecting Your Course: selecting-your-course.md
-    - Using Chat: using-chat.md
-    - Troubleshooting: troubleshooting.md
-  - Advanced Topics:
-    - Obtaining an your Verde API Token: advanced-topics/api-token.md
-    - Example of using your Verde API Token in Jupyter: advanced-topics/api-token-jupyter.md
-    - Example of using your Verde API Token in VSCode: advanced-topics/api-token-vscode.md
+    - Chat History: chat-history.md
+  - AI-VERDE API:
+    - What is the AI-VERDE API: api/index.md
+    - Obtaining your AI-VERDE API Token: api/api-token.md
+    - Examples of using your AI-VERDE API Token in Jupyter: api/api-token-jupyter.md
+    - Examples of using your AI-VERDE API Token in VSCode: api/api-token-vscode.md
+    - Examples of using your AI-VERDE API Token in Windows Desktop: api/api-token-windows.md
+    - Examples of using your AI-VERDE API Token in MacOS: api/api-token-anroid.md
+    - Examples of using your AI-VERDE API Token in Android: api/api-token-macos.md
+
+  - FAQ:
+    - FAQ: faq.md
   - For Instructors (and staff):
     - Getting Started: instructors/getting-started.md
     - Creating a Course: instructors/creating-a-course.md
@@ -86,6 +109,7 @@ markdown_extensions:
   - footnotes
   - meta
   - md_in_html
+  # - open-in-new-tab
   - toc:
       permalink: true
       title: On this page
@@ -97,7 +121,7 @@ markdown_extensions:
   - pymdownx.critic
   - pymdownx.details
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
   - pymdownx.highlight
   - pymdownx.inlinehilite
