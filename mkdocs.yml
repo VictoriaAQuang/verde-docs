@@ -1,7 +1,7 @@
 site_name: AI-VERDE Manual & Resource Site
 site_description: This site serves as the manual and resource site for AI-VERDE (aka VERDE), our classroom chatbot, providing guides for using the service.
 site_author: CyVerse and Data Science Institute
-site_url: https://verde-docs.cyverse.ai
+site_url: https://aiverde-docs.cyverse.ai
 
 # Repository
 repo_name: AI-VERDE Docs
