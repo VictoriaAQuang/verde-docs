@@ -4,7 +4,7 @@ This tutorial explains how to securely use an API token on macOS.
 
  
 <span style="display: inline-block; width: 60%;">
-  <img src="docs/assets/Screenshot 2024-12-12 at 12.37.45 PM.png" alt="Alt">
+  <img src="/Users/victoriaquang/Documents/Projects/verde-docs/docs/assets/Screenshot 2024-12-12 at 12.37.45 PM.png" >
 </span>
 
 
@@ -17,7 +17,7 @@ This tutorial explains how to securely use an API token on macOS.
 
 ---
 <span style="display: inline-block; width: 60%;">
-  <img src="docs/assets/Terminal Screenshot 1.png" alt="Alt">
+  <img src="/Users/victoriaquang/Documents/Projects/verde-docs/docs/assets/Terminal Screenshot 1.png">
 </span>
 
 ## Step 2: Store the API Token in an Environment Variable
@@ -37,7 +37,9 @@ This tutorial explains how to securely use an API token on macOS.
     ```bash
     source ~/.zshrc   # For zsh
     source ~/.bash_profile  # For bash
-
+<span style="display: inline-block; width: 60%;">
+  <img src="/Users/victoriaquang/Documents/Projects/verde-docs/docs/assets/Terminal Screenshot 2.png">
+</span>
 ---
 
 ## Step 3: Verify the Variable 
@@ -77,11 +79,22 @@ Add the following line to the file:
    echo $OPENAI_BASE_URL 
 - The terminal should display your token 
 
+<span style="display: inline-block; width: 60%;">
+  <img src="/Users/victoriaquang/Documents/Projects/verde-docs/docs/assets/Terminal Screenshot 3.png">
+</span>
+
 ---
 ## Step 4: Use the API Token in a cURL Request 
+
+
 1. To test the token, use it in an API call:
     ```bash
         curl -H "Authorization: Bearer $OPENAI_BASE_URL" https://chat.cyverse.ai/endpoint
+
+<span style="display: inline-block; width: 60%;">
+  <img src="/Users/victoriaquang/Documents/Projects/verde-docs/docs/assets/Terminal Screenshot 4.png">
+</span>
+
 ---
 ## Step 5: Secure your Token 
 1. Avoid hardcoding tokens in scripts.
