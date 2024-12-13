@@ -4,7 +4,7 @@ This tutorial explains how to securely use an API token on macOS.
 
  
 <span style="display: inline-block; width: 60%;">
-  <img src="/Users/victoriaquang/Documents/Projects/verde-docs/docs/assets/Screenshot 2024-12-12 at 12.37.45 PM.png" >
+  <img src="docs/assets/Screenshot 2024-12-12 at 12.37.45 PM.png" >
 </span>
 
 
@@ -17,7 +17,7 @@ This tutorial explains how to securely use an API token on macOS.
 
 ---
 <span style="display: inline-block; width: 60%;">
-  <img src="/Users/victoriaquang/Documents/Projects/verde-docs/docs/assets/Terminal Screenshot 1.png">
+  <img src="docs/assets/Terminal Screenshot 1.png">
 </span>
 
 ## Step 2: Store the API Token in an Environment Variable
@@ -38,7 +38,7 @@ This tutorial explains how to securely use an API token on macOS.
     source ~/.zshrc   # For zsh
     source ~/.bash_profile  # For bash
 <span style="display: inline-block; width: 60%;">
-  <img src="/Users/victoriaquang/Documents/Projects/verde-docs/docs/assets/Terminal Screenshot 2.png">
+  <img src="docs/assets/Terminal Screenshot 2.png">
 </span>
 ---
 
@@ -80,7 +80,7 @@ Add the following line to the file:
 - The terminal should display your token 
 
 <span style="display: inline-block; width: 60%;">
-  <img src="/Users/victoriaquang/Documents/Projects/verde-docs/docs/assets/Terminal Screenshot 3.png">
+  <img src="docs/assets/Terminal Screenshot 3.png">
 </span>
 
 ---
@@ -92,7 +92,7 @@ Add the following line to the file:
         curl -H "Authorization: Bearer $OPENAI_BASE_URL" https://chat.cyverse.ai/endpoint
 
 <span style="display: inline-block; width: 60%;">
-  <img src="/Users/victoriaquang/Documents/Projects/verde-docs/docs/assets/Terminal Screenshot 4.png">
+  <img src="docs/assets/Terminal Screenshot 4.png">
 </span>
 
 ---
