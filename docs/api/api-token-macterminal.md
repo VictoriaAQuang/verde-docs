@@ -26,7 +26,7 @@ This tutorial explains how to securely use an API token on macOS.
 - Apply the changes:
     - For zsh ```source ~/.zshrc```   
     - For bash ```source ~/.bash_profile```  
-![open terminal panel](../assets/display_token.png){: style="width:50%"}
+![display token](../assets/display_token.png){: style="width:50%"}
 
 ---
 
@@ -65,7 +65,7 @@ Open the appropriate file in a text editor:
   ``` echo $OPENAI_BASE_URL``` 
 - The terminal should display your token 
 
- ![open terminal panel](../assets/nano_zshrc.png){: style="width:50%"}
+ ![open nano](../assets/nano_zshrc.png){: style="width:50%"}
 ---
 ## Step 4: Use the API Token in a cURL Request 
 
@@ -73,7 +73,7 @@ Open the appropriate file in a text editor:
 -  To test the token, use it in an API call:    
     ```curl -H "Authorization: Bearer $OPENAI_BASE_URL" https://chat.cyverse.ai/endpoint```
 
-![open terminal panel](../assets/curl-h-authorization.png){: style="width:50%"}
+![authorization](../assets/curl-h-authorization.png){: style="width:50%"}
 
 ---
 ## Step 5: Secure your Token 
