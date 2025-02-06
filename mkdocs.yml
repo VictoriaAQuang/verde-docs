@@ -73,6 +73,8 @@ nav:
   - AI-VERDE API:
     - What is the AI-VERDE API: api/index.md
     - Obtaining your AI-VERDE API Token: api/api-token.md
+    - Using your AI-VERDE API Token in LangChain : api/api-token-langchain.md
+    - Using your AI-VERDE API Token in LlamaIndex : api/api-token-llamaindex.md
     - Examples of using your AI-VERDE API Token in Jupyter: api/api-token-jupyter.md
     - Examples of using your AI-VERDE API Token in VSCode: api/api-token-vscode.md
     - Examples of using your AI-VERDE API Token in Windows Desktop: api/api-token-windows.md
