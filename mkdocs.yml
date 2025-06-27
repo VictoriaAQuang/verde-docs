@@ -78,8 +78,8 @@ nav:
     - Examples of using your AI-VERDE API Token in Jupyter: api/api-token-jupyter.md
     - Examples of using your AI-VERDE API Token in VSCode: api/api-token-vscode.md
     - Examples of using your AI-VERDE API Token in Windows Desktop: api/api-token-windows.md
-    - Examples of using your AI-VERDE API Token in MacOS: api/api-token-anroid.md
-    - Examples of using your AI-VERDE API Token in Android: api/api-token-macos.md
+    - Examples of using your AI-VERDE API Token in MacOS: api/api-token-macos.md
+    - Examples of using your AI-VERDE API Token in Android: api/api-token-android.md
 
   - FAQ:
     - FAQ: faq.md
