@@ -19,7 +19,7 @@ export ANTHROPIC_BASE_URL="https://llm-api.cyverse.ai"
 export ANTHROPIC_API_KEY="insert-VERDE-API-Key-here"
 export ANTHROPIC_MODEL="anthropic/claude-sonnet-4"
 ```
-Note, the `ANTHROPIC_MODEL` can be set to Anthropic model. Information about available models can be found here, https://docs.anthropic.com/en/docs/about-claude/models/overview
+Note, the `ANTHROPIC_MODEL` can be set to any available Anthropic model. Information about available models can be found here, https://docs.anthropic.com/en/docs/about-claude/models/overview
 
 ## 2. Start Claude Code
 
