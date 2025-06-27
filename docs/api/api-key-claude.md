@@ -31,4 +31,4 @@ After initially launching Claude Code, claude will write the variables into a `~
 
 ## If you need to change your `ANTHROPIC_API_KEY`
 
-If for some reason you need to change your VERDE API Key, you can delete your use the `/logout` in claude or delete your `~/.claude/settings.json`; then, repeat steps 1-2.
+If for some reason you need to change your VERDE API Key, you can use the slash command `/logout` in claude or delete your `~/.claude/settings.json`; then, repeat steps 1-2.
