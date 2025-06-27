@@ -8,14 +8,16 @@
 
 ## 2. Select Your Team or Course
 
-### Click the "Details" button:
+Click the "Details" button:
 
 ![Student Course Details Button](../assets/api_key_course_details_button_updated.png){: style="width:75%"}
 
-### Click the "API Token" tab:
+## 3. Click the "API Token" tab:
 
 ![API Token tab](../assets/api_key_course_details_tab.png){: style="width:75%"}
 
-### Save your API key somewhere safe
+## 4. Copy and save your API key
 
 ![Course Details Modal](../assets/api_key_course_details_api_token_tab.png){: style="width:75%"}
+
+The models available for your course will are listed in the "Available Models" section of the API Token page.
