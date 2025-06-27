@@ -72,14 +72,15 @@ nav:
     - Chat History: chat-history.md
   - AI-VERDE API:
     - What is the AI-VERDE API: api/index.md
-    - Obtaining your AI-VERDE API Token: api/api-token.md
-    - Using your AI-VERDE API Token in LangChain : api/api-token-langchain.md
-    - Using your AI-VERDE API Token in LlamaIndex : api/api-token-llamaindex.md
-    - Examples of using your AI-VERDE API Token in Jupyter: api/api-token-jupyter.md
-    - Examples of using your AI-VERDE API Token in VSCode: api/api-token-vscode.md
-    - Examples of using your AI-VERDE API Token in Windows Desktop: api/api-token-windows.md
-    - Examples of using your AI-VERDE API Token in MacOS: api/api-token-macos.md
-    - Examples of using your AI-VERDE API Token in Android: api/api-token-android.md
+    - Obtaining your AI-VERDE API Key: api/api-token.md
+    - Using your AI-VERDE API Key in LangChain: api/api-token-langchain.md
+    - Using your AI-VERDE API Key in LlamaIndex: api/api-token-llamaindex.md
+    - Using your AI-VERDE API Key with Claude Code: api/api-key-claude.md
+    - Examples of using your AI-VERDE API Key in Jupyter: api/api-token-jupyter.md
+    - Examples of using your AI-VERDE API Key in VSCode: api/api-token-vscode.md
+    - Examples of using your AI-VERDE API Key in Windows Desktop: api/api-token-windows.md
+    - Examples of using your AI-VERDE API Key in MacOS: api/api-token-macos.md
+    - Examples of using your AI-VERDE API Key in Android: api/api-token-android.md
 
   - FAQ:
     - FAQ: faq.md
