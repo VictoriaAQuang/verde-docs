@@ -1,12 +1,12 @@
 # Using your AI-VERDE API Key with Claude Code
 
-You can follow these instructions to use your VERDE API key after installing Claude Code. More information on using Claude Code can be found here, [https://docs.anthropic.com/en/docs/intro].
+You can follow these instructions to use your VERDE API Key after installing Claude Code. More information on using Claude Code can be found here, https://docs.anthropic.com/en/docs/intro.
 
 ## Prerequisites
 
 1. Your VERDE course or team must be configured to use Anthropic models (see instructor or team lead)
-2. Install Claude Code. Instructions can be found here, [https://www.anthropic.com/claude-code/]
-3. Obtain your VERDE API Key. Instructions can be found here, [https://aiverde-docs.cyverse.ai/api/api-token/]
+2. Install Claude Code. Instructions can be found here, https://www.anthropic.com/claude-code/
+3. Obtain your VERDE API Key. Instructions can be found here, https://aiverde-docs.cyverse.ai/api/api-token/
 4. The remaining instructions assume you have an open terminal on system with Claude Code and bash installed.
 
 ## 1. Setting up the necessary environment variables
@@ -19,7 +19,7 @@ export ANTHROPIC_BASE_URL="https://llm-api.cyverse.ai"
 export ANTHROPIC_API_KEY="insert-VERDE-API-Key-here"
 export ANTHROPIC_MODEL="anthropic/claude-sonnet-4"
 ```
-Note, the `ANTHROPIC_MODEL` can be set to Anthropic model. Information about available models can be found here, [https://docs.anthropic.com/en/docs/about-claude/models/overview]
+Note, the `ANTHROPIC_MODEL` can be set to Anthropic model. Information about available models can be found here, https://docs.anthropic.com/en/docs/about-claude/models/overview
 
 ## 2. Start Claude Code
 
