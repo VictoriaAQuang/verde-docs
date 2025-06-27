@@ -1,10 +1,10 @@
 # Using your AI-VERDE API Key with Claude Code
 
-You can follow these instructions to use your VERDE API key after installing Claude Code.
+You can follow these instructions to use your VERDE API key after installing Claude Code. More information on using Claude Code can be found here, [https://docs.anthropic.com/en/docs/intro].
 
 ## Prerequisites
 
-1. Your VERDE course or team must be configured to use an Anthropic model (see instructor or team lead)
+1. Your VERDE course or team must be configured to use Anthropic models (see instructor or team lead)
 2. Install Claude Code. Instructions can be found here, [https://www.anthropic.com/claude-code/]
 3. Obtain your VERDE API Key. Instructions can be found here, [https://aiverde-docs.cyverse.ai/api/api-token/]
 4. The remaining instructions assume you have an open terminal on system with Claude Code and bash installed.
