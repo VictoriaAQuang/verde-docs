@@ -112,6 +112,7 @@ markdown_extensions:
   - footnotes
   - meta
   - md_in_html
+  - content.code.copy
   # - open-in-new-tab
   - toc:
       permalink: true
