@@ -73,6 +73,7 @@ nav:
   - AI-VERDE API:
     - What is the AI-VERDE API: api/index.md
     - Obtaining your AI-VERDE API Key: api/api-token.md
+    - Using Your API Key to View Your Available Models: api/api-key-models.md
     - Using your AI-VERDE API Key in LangChain: api/api-token-langchain.md
     - Using your AI-VERDE API Key in LlamaIndex: api/api-token-llamaindex.md
     - Using your AI-VERDE API Key with Claude Code: api/api-key-claude.md
