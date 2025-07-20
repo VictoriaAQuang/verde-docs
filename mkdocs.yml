@@ -71,17 +71,23 @@ nav:
     - Getting Started: getting-started.md
     - Chat History: chat-history.md
   - AI-VERDE API:
-    - What is the AI-VERDE API: api/index.md
-    - Obtaining your AI-VERDE API Key: api/api-token.md
-    - Using Your API Key to View Your Available Models: api/api-key-models.md
-    - Using your AI-VERDE API Key in LangChain: api/api-token-langchain.md
-    - Using your AI-VERDE API Key in LlamaIndex: api/api-token-llamaindex.md
-    - Using your AI-VERDE API Key with Claude Code: api/api-key-claude.md
-    - Examples of using your AI-VERDE API Key in Jupyter: api/api-token-jupyter.md
-    - Examples of using your AI-VERDE API Key in VSCode: api/api-token-vscode.md
-    - Examples of using your AI-VERDE API Key in Windows Desktop: api/api-token-windows.md
-    - Examples of using your AI-VERDE API Key in MacOS: api/api-token-macos.md
-    - Examples of using your AI-VERDE API Key in Android: api/api-token-android.md
+    - Getting Started:
+      - What is the AI-VERDE API: api/index.md
+      - Obtaining your AI-VERDE API Key: api/api-token.md
+      - Using Your API Key to View Your Available Models: api/api-key-models.md
+    - Using Your API Key in Code:
+      - LangChain: api/api-token-langchain.md
+      - LlamaIndex: api/api-token-llamaindex.md
+    - Using Command Line Clients:
+      - Claude Code Router: api/claude-code-router.md
+      - Claude Code (using Anthropic Models): api/api-key-claude.md
+    - Using IDEs:
+      - VSCode: api/api-token-vscode.md
+      - Jupyter: api/api-token-jupyter.md
+    - Using Desktop Clients:
+      - Windows Desktop: api/api-token-windows.md
+      - MacOS: api/api-token-macos.md
+      - Android: api/api-token-android.md
 
   - FAQ:
     - FAQ: faq.md

@@ -1,6 +1,10 @@
-# Using your AI-VERDE API Key with Claude Code
+# Claude Code (using Anthropic Models)
 
 You can follow these instructions to use your VERDE API Key after installing Claude Code. More information on using Claude Code can be found here, https://docs.anthropic.com/en/docs/intro.
+
+!!! Note
+
+    These instructions assume you are using a space that is connected to Anthropic models. If you need access to Claude Code using a non-Anthropic model, then use the instructions for Claude Code Router.
 
 ## Prerequisites
 
