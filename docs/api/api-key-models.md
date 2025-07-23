@@ -1,6 +1,6 @@
 # Getting a List of Models
 
-There are two ways to obtain a list models:
+There are three ways to obtain a list models:
 
 1. Go to [this page](../models-current.md) to view the list of CyVerse models. This list does not include models from external inference services e.g., Jetstream2.
 2. Viewing your models in the Course Details
