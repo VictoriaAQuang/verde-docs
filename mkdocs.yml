@@ -69,12 +69,13 @@ nav:
   - AI-VERDE Chat:
     - Welcome: index.md
     - Getting Started: getting-started.md
+    - Current CyVerse Models: models-current.md
     - Chat History: chat-history.md
   - AI-VERDE API:
     - Getting Started:
       - What is the AI-VERDE API: api/index.md
       - Obtaining your AI-VERDE API Key: api/api-token.md
-      - Using Your API Key to View Your Available Models: api/api-key-models.md
+      - Getting a List of Models: api/api-key-models.md
     - Using Your API Key in Code:
       - LangChain: api/api-token-langchain.md
       - LlamaIndex: api/api-token-llamaindex.md
@@ -85,10 +86,7 @@ nav:
       - VSCode: api/api-token-vscode.md
       - Jupyter: api/api-token-jupyter.md
     - Using Desktop Clients:
-      - Windows Desktop: api/api-token-windows.md
-      - MacOS: api/api-token-macos.md
-      - Android: api/api-token-android.md
-
+      - ChatboxAI.app: api/chatboxai.md
   - FAQ:
     - FAQ: faq.md
   - For Instructors (and staff):
