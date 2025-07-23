@@ -17,7 +17,7 @@ $ ccr start
 ```
 
 ## 2. Configuring Claude Code Router
-After running `ccr code`, then you will be prompted to enter the minimum configuring to start Claude Code Router. Use the following table for guidance on the values:
+After running `ccr code`, you will be prompted to enter the minimum configuring to start Claude Code Router. Use the following table for guidance on the values:
 
 | Field | Value or Instructions | Notes |
 | ------| --------------------- | ----- |
@@ -26,7 +26,7 @@ After running `ccr code`, then you will be prompted to enter the minimum configu
 | Provider URL | `https://llm-api.cyverse.ai/v1/chat/completions` | |
 | MODEL Name | `<verde model name>` | replace `<verde mode name>` with the model you'd like to use |
 
-After entering the MODEL name, you should see something like the following:
+After entering the MODEL name, you should see text similar to the following:
 ```
 Loaded JSON config from: /root/.claude-code-router/config.json
 register transformer: Anthropic (endpoint: /v1/messages)
@@ -39,14 +39,16 @@ providerConfig:  ai-verde undefined
 ai-verde provider registered
 🚀 LLMs API server listening on http://127.0.0.1:3456
 ```
-After the initial configuration, you can press `ctrl-c`.
+Press `ctrl-c` so that you can run Claude Code with Claude Code Router.
 
 ## 3. Running Claude Code Router
-You can now begin using Claude Code with Claude Code Router:
+Running Claude Code with Claude Code Router with the following command:
 
 ```
 ccr code
 ```
+
+If you are successful entering Claude Code, congratulations! To use Claude Code with the same settings, you will need to run `ccr code` every time.
 
 ## Updating Claude Code Router configuration
 At some point, you may want to add other models or add or update configuration options. To do so, you can edit the configuration file found in `~/.claude-code-router/config.json`
