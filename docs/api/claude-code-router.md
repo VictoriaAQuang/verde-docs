@@ -17,14 +17,14 @@ $ ccr start
 ```
 
 ## 2. Configuring Claude Code Router
-After running `ccr code`, you will be prompted to enter the minimum configuring to start Claude Code Router. Use the following table for guidance on the values:
+After running `ccr code`, you will be prompted to enter the minimum configuration to start Claude Code Router. Use the following table for guidance on the values:
 
 | Field | Value or Instructions | Notes |
 | ------| --------------------- | ----- |
 | Provider Name | `ai-verde` | any string works |
 | Provider API KEY | enter your AI-VERDE API key | |
 | Provider URL | `https://llm-api.cyverse.ai/v1/chat/completions` | |
-| MODEL Name | `<verde model name>` | replace `<verde mode name>` with the model you'd like to use |
+| MODEL Name | `<verde model name>` | replace `<verde model name>` with the model you'd like to use |
 
 After entering the MODEL name, you should see text similar to the following:
 ```
