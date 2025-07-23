@@ -79,8 +79,9 @@ nav:
     - Using Your API Key in Code:
       - LangChain: api/api-token-langchain.md
       - LlamaIndex: api/api-token-llamaindex.md
-    - Using Command Line Clients:
+    - Using CLI Coding Assistants:
       - Claude Code Router: api/claude-code-router.md
+      - Aider: api/aider.md
       - Claude Code (using Anthropic Models): api/api-key-claude.md
     - Using IDEs:
       - VSCode: api/api-token-vscode.md
