@@ -3,7 +3,7 @@
 Chatbox AI is a desktop application that works on Windows, MacOS, Android, iOS, Web, and Linux. These instructions should apply for both Windows and MacOS versions with some variations between the two platforms.
 
 ## Prerequisites
-1. Obtain your VERDE API Key. [Instructions can be found here](api-token.md).
+1. Obtain your AI-VERDE API Key and API URL. [Instructions can be found here](api-token.md).
 2. Note the model(s) you want to configure for Claude Code. [Instructions can be found here](api-key-models.md).
 3. Install Chatbox AI by visiting this page: https://chatboxai.app/en#download.
 4. The remaining instructions Chatbox AI installed.
@@ -23,7 +23,7 @@ For these steps, you can refer to the screenshot below
 ![chatbox ai](../assets/chatboxai02.png){: style="width:80%"}<br/>
 You should then be shown the ai-verde configuration panel on the right.
 8. Enter (or paste) your AI-VERDE Key in the API Key field
-9. Enter (or paste) the AI-VERDE API url in the API Host field
+9. Enter (or paste) the AI-VERDE API URL in the API Host field
 ![chatbox ai](../assets/chatboxai03.png){: style="width:80%"}
 10. In the model section, click on the "New" button, and a new model dialog box will be shown
 11. Enter the model in "Model ID" field
