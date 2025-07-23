@@ -34,7 +34,15 @@ You should then be shown the ai-verde configuration panel on the right.
 ![chatbox ai](../assets/chatboxai04.png){: style="width:80%"}<br/>
 14. You can repeat steps 10-13 to add additional models
 15. Optionally, after adding one or more models, you can click on the "Check" button to test the connection to AI-VERDE
-16. Now you're ready to begin chatting! Click on the "New Chat" button
-17. Select the model for this chat session, if necessary<br/>
+
+
+Now you're ready to begin chatting!
+
+## 2. Using Chatbox AI with configured models
+
+1. At any time, you can click on the "New Chat" button or click on a previous conversation on the left panel
+2. Select the model for this chat session, if necessary<br/>
 ![chatbox ai](../assets/chatboxai05.png){: style="width:95%"}<br/>
-18. Happy chatting!
+3. Enter your request in the chat textbox to begin chatting with the model
+
+There is a lot of functionality provided by Chatbox AI (as with many other chat interfaces). Feel free to explore!
