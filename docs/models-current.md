@@ -3,7 +3,7 @@
 !!! Important
     Last Updated: July 24, 2025
 
-This page is provided to provide details about models provided through "cyverse". Information about other models made available through other inference infrastructure can be referenced through the respective documentation or informational web sites.
+This page is provides details about models provided directly through CyVerse. Information about other models from other inference infrastructure can be referenced through the respective documentation or informational web sites.
 
 | Model Name | Aliases | Token Context Length | Supports Vision | Supports Reasoning | Supports Tools |
 | ---------- | ------- | -------------------- |---------------- | ------------------ | -------------- |
