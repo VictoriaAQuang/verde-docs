@@ -1,17 +1,17 @@
 # Current CyVerse Models
 
 !!! Important
-    Last Updated: July 22, 2025
+    Last Updated: July 24, 2025
 
 This page is provided to provide details about models provided through "cyverse". Information about other models made available through other inference infrastructure can be referenced through the respective documentation or informational web sites.
 
-| model name | Token Context Length | Supports Vision | Supports Reasoning | Supports Tools |
-| ---------- | -------------------- |---------------- | ------------------ | -------------- |
-| gemma-3-12b-it | 32,768 | :white_check_mark: | :x: | :x: |
-| Llama-3.3-70B-Instruct-quantized | 128,000 | :x: | :x: | :x: |
-| Llama-3.2-11B-Vision-Instruct | 32,768 | :white_check_mark: | :x: | :white_check_mark: |
-| phi-4 | 16,000 | :x: | :x: | :x: |
-| qwen3-coder-32b | 131,072 | :x: | :white_check_mark: | :white_check_mark: |
+| Model Name | Aliases | Token Context Length | Supports Vision | Supports Reasoning | Supports Tools |
+| ---------- | ------- | -------------------- |---------------- | ------------------ | -------------- |
+| gemma-3-12b-it | | 32,768 | :white_check_mark: | :x: | :x: |
+| Llama-3.3-70B-Instruct-quantized | | 128,000 | :x: | :x: | :x: |
+| Llama-3.2-11B-Vision-Instruct | | 32,768 | :white_check_mark: | :x: | :white_check_mark: |
+| phi-4-multimodal-instruct | phi-4 | 128,000 | :white_check_mark: | :x: | :x: |
+| qwen3-coder-32b | | 131,072 | :x: | :white_check_mark: | :white_check_mark: |
 
 ## Deprecated Models
 
