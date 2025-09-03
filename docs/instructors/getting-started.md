@@ -19,6 +19,18 @@ Before you begin: please [Schedule Onboarding Session](https://outlook.office365
    - iychoi@arizona.edu  
    - zhxu73@arizona.edu  
 
+## Troubleshooting
+
+Having trouble getting started? Here are the most common issues instructors face:
+
+- **Can’t find the API key after creating it** → OpenAI only shows the key once. If you lost it, go back to the [API Keys page](https://platform.openai.com/account/api-keys) and create a new one.  
+
+- **Stache entry not accessible to the AI-VERDE team** → Double-check that you shared the entry with all required addresses:  
+    - edwins@arizona.edu  
+    - iychoi@arizona.edu  
+    - zhxu73@arizona.edu  
+
 ## Next Step: Gather Your Course Details  
 
 Great work so far! Once your OpenAI key is shared, you’re ready to move on to the next stage: **Creating a course** to prepare your roster (students, TAs, and co-instructors) and submit it for course setup.  
+
