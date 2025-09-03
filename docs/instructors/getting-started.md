@@ -25,10 +25,7 @@ Having trouble getting started? Here are the most common issues instructors face
 
 - **Can’t find the API key after creating it** → OpenAI only shows the key once. If you lost it, go back to the [API Keys page](https://platform.openai.com/account/api-keys) and create a new one.  
 
-- **Stache entry not accessible to the AI-VERDE team** → Double-check that you shared the entry with all required addresses:  
-    - edwins@arizona.edu  
-    - iychoi@arizona.edu  
-    - zhxu73@arizona.edu  
+- **Stache entry not accessible to the AI-VERDE team** → Double-check that you shared the entry with all required addresses.
 
 ## Next Step: Gather Your Course Details  
 

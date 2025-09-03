@@ -27,7 +27,7 @@ This guide covers the most common issues instructors face when getting started, 
 
 - **Some students missing from initial roster**  
   - Double-check the CSV formatting.  
-  - Resubmit the corrected file to **ai-verde-support@cyverse.org**.  
+  - Resubmit the corrected file to the support team.
 
 - **Course details are incorrect (name, description, or term)**  
   - Contact **ai-verde-support@cyverse.org** with the corrections.  
