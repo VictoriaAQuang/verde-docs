@@ -8,8 +8,7 @@ repo_name: AI-VERDE Docs
 repo_url: https://github.com/CyVerse-learning-materials/verde-docs
 edit_uri: edit/main/docs/
 # Copyright
-copyright: 'Copyright &copy; 2025 CyVerse'
-
+copyright: "Copyright &copy; 2025 CyVerse"
 
 # Configuration
 theme:
@@ -19,15 +18,15 @@ theme:
     text: Roboto
     code: Regular
 
-  # Features  
+  # Features
   features:
-  - navigation.instant
-  - navigation.tracking
-  - navigation.tabs
-  - navigation.tabs.sticky
-  - navigation.indexes
-  - navigation.top
-  - toc.follow
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.indexes
+    - navigation.top
+    - toc.follow
 
   # 404 page
   static_templates:
@@ -38,7 +37,8 @@ theme:
   search_index_only: true
 
   # Palette and theme (uses personalized colours)
-  language: en
+  language:
+    en
 
     # Palette toggle for light mode
   palette:
@@ -55,7 +55,6 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 
-
   # palette:
   #   primary: custom
   #   accent: custom
@@ -67,34 +66,34 @@ theme:
 # Page tree
 nav:
   - AI-VERDE Chat:
-    - Welcome: index.md
-    - Getting Started: getting-started.md
-    - Current CyVerse Models: models-current.md
-    - Chat History: chat-history.md
+      - Welcome: index.md
+      - Getting Started: getting-started.md
+      - Current CyVerse Models: models-current.md
+      - Chat History: chat-history.md
   - AI-VERDE API:
-    - Getting Started:
-      - What is the AI-VERDE API: api/index.md
-      - Obtaining your AI-VERDE API Key: api/api-token.md
-      - Getting a List of Models: api/api-key-models.md
-    - Using Your API Key in Code:
-      - LangChain: api/api-token-langchain.md
-      - LlamaIndex: api/api-token-llamaindex.md
-    - Using CLI Coding Assistants:
-      - Claude Code Router: api/claude-code-router.md
-      - Aider: api/aider.md
-      - Claude Code (using Anthropic Models): api/api-key-claude.md
-    - Using IDEs:
-      - VSCode: api/api-token-vscode.md
-      - Jupyter: api/api-token-jupyter.md
-    - Using Desktop Clients:
-      - ChatboxAI.app: api/chatboxai.md
+      - Getting Started:
+          - What is the AI-VERDE API: api/index.md
+          - Obtaining your AI-VERDE API Key: api/api-token.md
+          - Getting a List of Models: api/api-key-models.md
+      - Using Your API Key in Code:
+          - LangChain: api/api-token-langchain.md
+          - LlamaIndex: api/api-token-llamaindex.md
+      - Using CLI Coding Assistants:
+          - Claude Code Router: api/claude-code-router.md
+          - Aider: api/aider.md
+          - Claude Code (using Anthropic Models): api/api-key-claude.md
+      - Using IDEs:
+          - VSCode: api/api-token-vscode.md
+          - Jupyter: api/api-token-jupyter.md
+      - Using Desktop Clients:
+          - ChatboxAI.app: api/chatboxai.md
   - FAQ:
-    - FAQ: faq.md
+      - FAQ: faq.md
   - For Instructors (and staff):
-    - Getting Started: instructors/getting-started.md
-    - Creating a Course: instructors/creating-a-course.md
-    - Managing a Course: instructors/managing-a-course.md
-    - Troubleshooting: instructors/troubleshooting.md
+      - Getting Started: instructors/getting-started.md
+    # - Creating a Course: instructors/creating-a-course.md
+    # - Managing a Course: instructors/managing-a-course.md
+    # - Troubleshooting: instructors/troubleshooting.md
 
 # Theme Extras
 extra_css:
@@ -102,12 +101,12 @@ extra_css:
 
 # Extra Plugins
 plugins:
-    - search
-    - mkdocstrings
-    - git-revision-date
-    - mkdocs-jupyter:
-          include_source: True
-          ignore_h1_titles: True
+  - search
+  - mkdocstrings
+  - git-revision-date
+  - mkdocs-jupyter:
+      include_source: True
+      ignore_h1_titles: True
 
 # Extensions (leave as is)
 markdown_extensions:
