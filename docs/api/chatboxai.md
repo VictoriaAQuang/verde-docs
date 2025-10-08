@@ -28,7 +28,7 @@ Follow these steps to connect Chatbox AI with your AI-VERDE account:
    &nbsp;
    ![chatbox ai](../assets/chatboxai01.png){: style="width:95%"}  
    &nbsp;
-5. In the Name field, enter "ai-verde"  
+5. In the Name field, enter "AI-VERDE"  
 6. Leave API Mode set to "OpenAI API Compatible"  
 7. Click "Add"
    &nbsp;  

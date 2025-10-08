@@ -20,7 +20,7 @@ curl -s -L "https://llm-api.cyverse.ai/v1/models" \
 -H 'Content-Type: application/json' | jq
 ```
 ## 3. Create python scripts
-You can now connect **AI-VERDE** to **LangChain** using the following Python example.
+You can now connect AI-VERDE to LangChain using the following Python example.
 Before running the script, make sure to:
 - Replace `[MODEL NAME]` with one of your available model IDs.
 - Replace `[AI-VERDE API KEY]` with your personal API key

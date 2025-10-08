@@ -17,14 +17,14 @@ You can view your models directly in the application or through a simple command
 
 1. Go to [https://chat.cyverse.ai](https://chat.cyverse.ai)  
 2. Log in with your CyVerse credentials  
-3. Click **Details** on your course  
-4. Select the **API Key** tab  
-5. The **Available Models** section will display all models your course can access  
+3. Click "Details" on your course  
+4. Select the "API Key" tab  
+5. The "Available Models" section will display all models your course can access  
 
 
 ## Viewing Models Using Your API Key
 
-After obtaining your **API Key** from your course or team, you can run the following command in your terminal to request a list of all models available to you.  
+After obtaining your "API Key" from your course or team, you can run the following command in your terminal to request a list of all models available to you.  
 This command uses `curl` to securely connect to the CyVerse API and return your model list in JSON format:
 
 ```bash
