@@ -4,20 +4,22 @@ This guide explains how to connect **Claude Code** with **AI-VERDE** using the C
 You can follow the steps below after installing Claude Code and Claude Code Router.  
 For more details on installation and usage, see the [Claude Code Router GitHub page](https://github.com/musistudio/claude-code-router).
 
-
 ## Prerequisites
 
+1. **AI-VERDE API Key**  
+   - Obtain your key by following the [AI-VERDE API Token Guide](https://aiverde-docs.cyverse.ai/api/api-token/).  
 
-1. **AI-VERDE API Key** 
-    - Obtain your API key following the instructions [here](https://aiverde-docs.cyverse.ai/api/api-token/).  
-2. **Model Information**
-    - Identify the model(s) you want to configure for Claude Code Instructions are [here](https://aiverde-docs.cyverse.ai/api/api-key-models/).  
-3. **Claude Code Installed** 
-    - Installation instructions are available [here](https://www.anthropic.com/claude-code/).  
-4. **Claude Code Router Installed** 
-    - You can install it by following the guide [here](https://github.com/musistudio/claude-code-router).  
-5. **Terminal Access** 
-    - These instructions assume you are using a terminal with **Claude Code** and **bash** available.
+2. **Model Information**  
+   - Identify the model(s) you plan to configure by reviewing the [AI-VERDE Model Access Documentation](https://aiverde-docs.cyverse.ai/api/api-key-models/).  
+
+3. **Claude Code Installed**  
+   - Follow the [Claude Code Installation Instructions](https://www.anthropic.com/claude-code/).  
+
+4. **Claude Code Router Installed**  
+   - Install the router by following the [Claude Code Router Setup Guide](https://github.com/musistudio/claude-code-router).  
+
+5. **Terminal Access**  
+   - Ensure you are using a terminal with **Claude Code** and **bash** available.
 
 ## 1. Starting Claude Code Router
 This step should only be needed the first time you use Claude Code Router.

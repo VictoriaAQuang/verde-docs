@@ -7,14 +7,18 @@ This will guide you through connecting your **AI-VERDE API Key**, configuring yo
 
 ## Prerequisites
 
+1. **AI-VERDE API Key and API URL**  
+   - Obtain your credentials by following the [AI-VERDE API Token Guide](api-token.md).  
 
-1. **Your AI-VERDE API Key and API URL**  
-   - To obtain them [follow these instructions](api-token.md).
-2. **The model(s) you plan to use**  
-   - You can [view available models here](api-key-models.md).
-3. **Chatbox AI installed**  
-   - Download the installer for your system from [chatboxai.app/en#download](https://chatboxai.app/en#download).
-4. **The remaining instructions Chatbox AI installed**
+2. **Model Information**  
+   - Review the models you plan to use in the [AI-VERDE Model Access Documentation](api-key-models.md).  
+
+3. **Chatbox AI Installation**  
+   - Download the installer for your operating system from the [Chatbox AI Download Page](https://chatboxai.app/en#download).  
+
+4. **Terminal or Application Access**  
+   - These instructions assume **Chatbox AI** is already installed and accessible on your system.
+
 
 ## 1. Configure AI-VERDE in Chatbox AI
 
