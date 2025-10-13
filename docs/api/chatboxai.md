@@ -7,7 +7,6 @@ This will guide you through connecting your **AI-VERDE API Key**, configuring yo
 
 ## Prerequisites
 
-Before starting, make sure you have:
 
 1. **Your AI-VERDE API Key and API URL**  
    - To obtain them [follow these instructions](api-token.md).
