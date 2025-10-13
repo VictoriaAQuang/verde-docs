@@ -3,7 +3,7 @@
 Chatbox AI is a cross-platform desktop and mobile application that allows you to interact with AI-VERDE models through an intuitive chat interface.  
 It runs on **Windows, macOS, Linux, Android, iOS, and Web**.
 
-This guide will walk you through connecting your **AI-VERDE API Key**, configuring your models, and starting your first conversation.
+This will guide you through connecting your **AI-VERDE API Key**, configuring your models, and starting your first conversation.
 
 ## Prerequisites
 
